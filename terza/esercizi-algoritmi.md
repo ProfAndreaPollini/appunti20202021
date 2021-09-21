@@ -2,8 +2,8 @@
 
 1. es 28 A62
 2. es 32 A63 (casa)
-3. algoritmo di funzionamento del sensore Co2 installato in classe.
-4. letta in input una sequenza di numeri positivi (la lettura termina quando viene letto 0), stampare a video la media dei numeri inseriti.
+3. (*)algoritmo di funzionamento del sensore Co2 installato in classe.
+4. (*) letta in input una sequenza di numeri positivi (la lettura termina quando viene letto 0), stampare a video la media dei numeri inseriti.
 5. Dati in input due numeri, stampare il massimo dei due
 6. Dati in input tre numeri, stampare a video il massimo e il minimo dei tre.
 7. letta in input una sequenza di numeri positivi (la lettura termina quando viene letto 0),stampare a video il piú grande e il piú piccolo numero inserito.
