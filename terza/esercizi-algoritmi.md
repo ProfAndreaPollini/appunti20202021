@@ -18,3 +18,4 @@
    
 Infine visualizzare il prezzo finale del prodotto tasse
 incluse.
+13. Dati due numeri effettuare il loro prodotto usando solo l’operazione somma.
