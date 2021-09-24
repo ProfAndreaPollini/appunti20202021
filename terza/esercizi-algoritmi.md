@@ -10,7 +10,6 @@
 8. scrivere un algoritmo per la risoluzione di una equazione di primo grado
 9. scrivere un algoritmo per la risoluzione di una equazione di secondo grado
 10. Il prezzo base del biglietto del cinema é di 5 euro. Se hai meno di 18 anni paghi 4 euro. Se hai da 18 a 40 anni paghi a prezzo pieno, se hai oltre i 40 anni hai uno sconto del 10% sul prezzo del biglietto. Realizzare un algoritmo che, chiesta l'etá del cliente, ritorni il prezzo dovuto per il biglietto, tenendo conto delle regole enunciate prima.
-
-
+11. Ricevuto un numero intero N come input sviluppare un algoritmo che se il numero è negativo lo trasformi in positivo
 
    
