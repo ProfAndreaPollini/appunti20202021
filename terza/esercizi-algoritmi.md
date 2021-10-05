@@ -19,3 +19,9 @@
 Infine visualizzare il prezzo finale del prodotto tasse
 incluse.
 13. Dati due numeri effettuare il loro prodotto usando solo l’operazione somma.
+
+
+Realizzare una relazione dettagliata sul funzionamento del programma flowgorithm.
+Risolvere con spiegazione del problema, pseudocodicodifica e flowchat flogorithm almeno tre esercizi del testo.
+Inserire tutto in un unico file di Word (utilizzare Word nell'account scolastico).
+Caricare l'attività in teams.
