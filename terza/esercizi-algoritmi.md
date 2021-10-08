@@ -25,3 +25,5 @@ Realizzare una relazione dettagliata sul funzionamento del programma flowgorithm
 Risolvere con spiegazione del problema, pseudocodicodifica e flowchat flogorithm almeno tre esercizi del testo.
 Inserire tutto in un unico file di Word (utilizzare Word nell'account scolastico).
 Caricare l'attività in teams.
+
+Scrivere un algoritmo per gestire i prezzi degli  articolo durante i saldi del green Friday. L'algoritmo accetta in input il prezzo base e la categoria (e=ecosostenibile, n= non ecosostenibile). Per ogni articolo ecosostenibile verrà effettuato uno sconto del 30% e se il prezzo scontato fosse maggiore di 20 euro, verrà applicato sul prezzo scontato un ulteriori 30%. Nel caso di prodotto non ecosostenibile, verrà invece maggiorato in ogni caso il prezzo del 20%
